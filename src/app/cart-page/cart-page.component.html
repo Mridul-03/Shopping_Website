@@ -1,0 +1,63 @@
+<app-header></app-header>
+
+<div class="container">
+    <div class="row">
+      <div class="col cartDiv">
+         <h1 class="my-4"><i>Shopping Cart</i></h1>
+          <img src="https://media.istockphoto.com/id/1206806317/vector/shopping-cart-icon-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=1RRQJs5NDhcB67necQn1WCpJX2YMfWZ4rYi1DFKlkNA=">
+      </div>
+    </div>
+    <!-- Content goes here -->
+  </div>
+
+<table id="Mytable">
+
+  <thead *ngIf="items.length !== 0">
+    <tr>
+      <th class="detailHead">Product Name and Details</th>
+      <th>Price</th>
+      <th class="Quantity">Quantity</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let item of items">
+      <td>
+        <div class="details">
+          <img src="{{item.img}}">
+          <div class="innerDetails">
+            <p><span>{{item.brand}} </span>{{item.model}}</p>
+            <div class="inner2Details">
+              <p>color : <b>{{item.color}}</b>,</p>
+              <p>storage : <b>{{item.storage}}</b>,</p>
+              <p>Ram : <b>{{item.ram}}</b></p>
+            </div>
+          </div>
+        </div>
+      </td>
+      
+      <td>
+        ₹{{item.Price}}
+      </td>
+
+      <td>
+        <button class="btn btn-primary" (click)="removeItem(item.id)">-</button>
+        {{item.Quantity}}
+        <button class="btn btn-primary" (click)="addItem(item.id)">+</button>
+      </td>
+      
+      <td>
+        ₹{{item.total}}
+      </td>
+
+    </tr>
+  </tbody>
+</table>
+
+<div class="myDiv">
+  <div class="myInnerDiv">
+  <p *ngIf="Total_cost != 0"><b><i>Total Price</i></b> : ₹{{Total_cost}}</p>
+  <button class="btn btn-primary" (click)="shopClick()">Back to Shopping</button>
+  </div>
+</div>

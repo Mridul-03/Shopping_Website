@@ -1,0 +1,21 @@
+<app-header></app-header>
+
+  <div *ngIf="b1" class=" mb-4 myDiv">
+   
+   <li *ngFor="let obj of products" class="IndiDiv">
+   <div (click)="onClick(obj.id)">
+    <img src="{{obj['img']}}" class="hover-element" (mouseover)="showpopup = true" (mouseleave)="showpopup = false">
+   
+    <hr>
+    <div class="innerDiv">
+    <p class="company"><b>Company :</b> {{obj['brand']}}</p>
+    <span><b>Model :</b> {{obj['model']}}</span>
+    <br>
+    <span><i><b>colour :</b> {{obj['color']}}</i></span>
+    <br>
+    <p><b>Size :</b> {{obj['display'].size}}</p>
+    </div>
+   </div>
+   <button class="btn btn-primary fas fa-shopping-cart" (click)="onCart(obj.id)">Add to Cart</button>
+   </li>
+  </div>

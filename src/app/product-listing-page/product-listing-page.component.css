@@ -1,0 +1,86 @@
+.navbar {
+    background-color: #007bff; /* Light bluish background color */
+    position :sticky;
+  }
+  .navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff; /* White text color */
+  }
+  .navbar-brand:hover, .navbar-nav .nav-link:hover {
+    color: #f8f9fa; /* Lighter text color on hover */
+  }
+
+  li{
+    list-style-type: none;
+  }
+
+  .navbar , .navbar-expand-lg, .navbar-dark , .bg-primary
+  {
+    background-color: black;
+  }
+
+  .name
+  {
+    color: white;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+  }
+
+  .btn , .btn-primary
+  {
+    background-color: #30638e;
+    border: none;
+  }
+
+  .myDiv
+  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .IndiDiv
+  {
+    margin-right: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+  }
+
+  .company
+  {
+    
+    margin-bottom: 0px;
+  }
+
+  img
+  {
+    width: 200px;
+    height: 200px;
+  }
+
+  .innerDiv
+  {
+    margin-left: 50px;
+    font-style: italic;
+  }
+
+  button
+  {
+    margin-left: 50px;
+  }
+
+  .logoutDiv
+  {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 5px;
+    gap: 10px;
+  }
+
+  .logoutbtn
+  {
+    width: 80px;
+    /* height: 30px; */
+  }

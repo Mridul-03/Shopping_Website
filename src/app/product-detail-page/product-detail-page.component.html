@@ -1,0 +1,42 @@
+<app-header></app-header>
+
+  <div *ngIf="isDataRetrieved" class="biggerDiv">
+    <div class="leftDiv">
+      <img src="{{product.img}}">
+      <hr>
+      <table>
+        <tr>
+            <h6>Product Price : </h6> <span class="mySpan">₹{{product.price}}</span>
+        </tr>
+        <tr>
+            <h6>Product Seller : </h6> <span class="mySpan">{{product.brand}}</span>
+        </tr>
+      </table>
+    </div>
+    <div class="rightDiv">
+      <h3><b><i>Product Details</i></b></h3>
+      <hr>
+      <h6>Product Name : </h6>
+      <span> {{product.brand}}  {{product.model}}</span>
+      <hr>
+      <h6>Colour : </h6> {{product.color}}
+      <hr>
+      <h6>Product Description : </h6>
+      <div class="row">
+        <div class="myDiv col-11 offset-3">
+           {{product.display.protection}} , {{product.display.resolution}} , {{product.display.refresh_rate}} , {{product.display.size}}
+           {{product.display.type}} , {{product.processor}} , {{product.features}} , {{product.camera.front}} Front Camera , 
+           {{product.camera.main}} , {{product.camera.video_capabilities}} , {{product.battery}} ,
+            {{product.storage}} Storage , {{product.ram}} RAM ,{{product.features}} <span *ngIf="product.wireless_charging">, Support Wireless Charging</span>
+            <span *ngIf="product.reverse_charging"> , Supprts Reverse Charging</span>
+        </div>
+      </div>
+      <hr>
+      <h6>Realease Year : </h6> {{product.release_year}}
+      <br>
+      <br>
+      <button class="btn btn-primary" (click)="onCart()">Add to Cart</button>
+    </div>
+
+
+  </div>
