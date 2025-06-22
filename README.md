@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Shopping_Website
 =======
+=======
+>>>>>>> d25f8fd28bf19cecd2e1bee99ef5a8aa6c7a6a30
 # ShoppingWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
@@ -28,4 +31,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<<<<<<< HEAD
 >>>>>>> d25f8fd (Initial commit)
+=======
+>>>>>>> d25f8fd28bf19cecd2e1bee99ef5a8aa6c7a6a30
