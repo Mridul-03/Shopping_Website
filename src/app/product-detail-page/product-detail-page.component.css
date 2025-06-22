@@ -1,0 +1,102 @@
+img
+{
+    margin-left: 20px;
+    height: 400px;
+    width: 300px;
+}
+
+.biggerDiv
+{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    flex-shrink: 1px;
+}
+
+.name
+  {
+    color: white;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+  }
+
+  .logoutDiv
+  {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 5px;
+    gap: 10px;
+  }
+
+  .logoutbtn
+  {
+    width: 80px;
+  }
+
+.navbar , .navbar-expand-lg, .navbar-dark , .bg-primary
+  {
+    background-color: black;
+  }
+
+  .btn , .btn-primary
+  {
+    background-color: #30638e;
+    border: none;
+  }
+
+.leftDiv , .rightDiv
+{
+    flex-shrink: 1
+}
+
+h5 , h6
+{
+  display: inline;
+  margin-top: 0px;
+}
+span
+{
+    margin-top: 0px;
+}
+
+.myDiv
+{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.col-9 , .row
+{
+  display: inline;
+}
+
+table
+{
+    margin-left: 20px;
+    width: 300px;
+}
+
+tr
+{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    border: 1px silver solid;
+}
+
+.mySpan
+{
+    color: rgb(227, 37, 37);
+    justify-content: flex-end;
+}
+
+button
+{
+    width: 200px;
+}

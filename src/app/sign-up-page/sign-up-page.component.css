@@ -1,0 +1,53 @@
+form
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+input
+{
+    border-radius: 5%;
+    width: 275px;
+}
+
+button
+{
+  width: 275px;
+}
+
+#header
+{
+    height: 5px;
+    width: 23vw;
+    background-color: black;
+}
+
+#para
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  word-wrap: normal;
+  white-space: pre-line;
+}
+
+.btn , .btn-success
+  {
+    background-color: #30638e;
+    border: none;
+  }
+
+  .para
+  {
+    text-align: center;
+    color: red;
+  }
+
+.span1
+{
+  color: #30638e;
+}

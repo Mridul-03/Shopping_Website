@@ -1,0 +1,33 @@
+<form #f="ngForm" (ngSubmit)="SignUp(f)">
+   <div id="header">
+    
+   </div>
+    <h1>SignUp Now</h1>
+    <p><i>It's Free and Takes a Minute</i></p>
+    <div class="mb-2 form-group">
+      <input type="text" placeholder="First Name" class="form-control" name="firstname"  ngModel>
+    </div>
+    <div class="mb-2 form-group">
+      <input type="text" placeholder="Last Name" class="form-control" name="lastname" ngModel>
+    </div>
+    <div class="mb-2 form-group">
+        <input type="email" class="form-control" placeholder="Email" name="email" ngModel required email>
+        <p class="para" *ngIf="f.controls['email'] && !f.controls['email'].valid && f.controls['email'].dirty ">Enter a Valid Email address</p>
+    </div>
+    <div class="mb-2 form-group">
+        <input type="password" class="form-control" placeholder="Password" name="password" ngModel required minlength="8">
+    </div>
+    <div class="mb-2 form-group">
+        <input type="password" class="form-control" placeholder="Confirm Password" name="confirm-password" ngModel required value="f.controls['password'].value">
+        <p class="para" *ngIf="f.controls['password'] && f.controls['password'].valid && f.controls['confirm-password'].dirty && f.controls['confirm-password'] && f.controls['password'].value != f.controls['confirm-password'].value">Password DOES NOT Match</p>
+    </div>
+
+    <button type="submit" class="btn btn-success" [disabled]="!f.valid && !b1">SignUp Now</button>
+
+    <p *ngIf="b1" class="para"><i>Already Have an Account</i></p>
+
+    <br>
+    <p id="para">When you Register by Clicking SignUp Button , You Agree to our &nbsp; <span class="span1"> Terms and Condition</span>&nbsp; and <span class="span1"> &nbsp; Privacy Policy</span></p>
+    <p><i>Already have an account? <a routerLink="/Login">Login</a></i></p>
+
+  </form>

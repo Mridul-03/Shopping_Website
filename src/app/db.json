@@ -1,0 +1,1009 @@
+{
+  "User_Information": [
+    {
+      "id": "4199",
+      "Username": "mridul",
+      "email": "m.kansal2003@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "c4fc",
+      "Username": "mridul",
+      "email": "mridul7245045@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "b2a4",
+      "Username": "mridul",
+      "email": "kansalmridul67@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3953",
+      "Username": "mridul41",
+      "email": "m.kansal20031@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "06f3",
+      "Username": "mrizzz",
+      "email": "m.kansal20032@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "76e7",
+      "Username": "mridul",
+      "email": "mridul@kansal",
+      "password": "123456789"
+    },
+    {
+      "id": "938a",
+      "Username": "mridul",
+      "email": "m.kansal20036@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "bef5",
+      "Username": "mrizzz",
+      "email": "mridul72450451@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "05b1",
+      "Username": "mrizzz",
+      "email": "kansalmridul68@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "5163",
+      "Username": "mrizzz",
+      "email": "myid@kjgb.com",
+      "password": "123456789"
+    }
+  ],
+  "smartphones": [
+    {
+      "id": "1",
+      "img": "https://rukminim2.flixcart.com/image/850/1000/ktketu80/mobile/c/g/4/iphone-13-pro-max-mlll3hn-a-apple-original-imag6vpg3r7dyvhm.jpeg?q=90&crop=false",
+      "color": "White",
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "release_year": 2021,
+      "display": {
+        "type": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "1170 x 2532 pixels",
+        "refresh_rate": "60 Hz",
+        "protection": "Ceramic Shield front, oleophobic coating"
+      },
+      "processor": "Apple A15 Bionic",
+      "ram": "6 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Ion 3095 mAh",
+      "fast_charging": "20W, 50% in 30 min (advertised)",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "12 MP (wide) + 12 MP (ultrawide) + 12 MP (telephoto)",
+        "front": "12 MP",
+        "video_capabilities": "4K@24/30/60fps, 1080p@30/60/120/240fps"
+      },
+      "features": [
+        "Face ID",
+        "MagSafe",
+        "5G support"
+      ],
+      "price": 999
+    },
+    {
+      "id": "2",
+      "img": "https://images-cdn.ubuy.co.in/653c192cff9e13689111dd23-samsung-galaxy-s21-ultra-5g-g998u-256gb.jpg",
+      "color": "Black",
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "release_year": 2021,
+      "display": {
+        "type": "Dynamic AMOLED 2X",
+        "size": "6.8 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Exynos 2100 / Snapdragon 888",
+      "ram": "12/16 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Ion 5000 mAh",
+      "fast_charging": "25W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "108 MP (wide) + 12 MP (ultrawide) + 10 MP (periscope telephoto) + 10 MP (telephoto)",
+        "front": "40 MP",
+        "video_capabilities": "8K@24fps, 4K@30/60/240fps, 1080p@30/60/240fps, 720p@960fps"
+      },
+      "features": [
+        "S Pen support",
+        "5G support",
+        "120Hz refresh rate"
+      ],
+      "price": 1199
+    },
+    {
+      "id": "3",
+      "img": "https://m.media-amazon.com/images/I/71FpXTBHDnL._AC_UF1000,1000_QL80_.jpg",
+      "color": "Black",
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "release_year": 2021,
+      "display": {
+        "type": "Fluid AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1440 x 3120 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Google Tensor",
+      "ram": "12 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Po 5000 mAh",
+      "fast_charging": "30W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 12 MP (ultrawide) + 48 MP (telephoto)",
+        "front": "11 MP",
+        "video_capabilities": "4K@30/60/120fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "Under-display fingerprint sensor",
+        "IP68 dust/water resistant"
+      ],
+      "price": 899
+    },
+    {
+      "id": "4",
+      "img": "https://m.media-amazon.com/images/I/614cCf6bzyL._AC_UF1000,1000_QL80_.jpg",
+      "color": "Green",
+      "brand": "OnePlus",
+      "model": "OnePlus 9 Pro",
+      "release_year": 2021,
+      "display": {
+        "type": "Fluid AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1440 x 3216 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Po 4500 mAh",
+      "fast_charging": "65W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "48 MP (wide) + 50 MP (ultrawide) + 8 MP (telephoto) + 2 MP (monochrome)",
+        "front": "16 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "In-display fingerprint sensor",
+        "IP68 dust/water resistant"
+      ],
+      "price": 969
+    },
+    {
+      "id": "5",
+      "img": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1619082747.31483931!400x400!85.png",
+      "color": "Black",
+      "brand": "Xiaomi",
+      "model": "Mi 11 Ultra",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.81 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8/12 GB",
+      "storage": "256/512 GB",
+      "battery": "Li-Ion 5000 mAh",
+      "fast_charging": "67W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 48 MP (periscope telephoto) + 48 MP (ultrawide)",
+        "front": "20 MP",
+        "video_capabilities": "8K@24/30fps, 4K@30/60fps, 1080p@30/120/240/960fps"
+      },
+      "features": [
+        "5G support",
+        "Harman Kardon-tuned stereo speakers",
+        "IP68 dust/water resistant"
+      ],
+      "price": 999
+    },
+    {
+      "id": "6",
+      "img": "https://m.media-amazon.com/images/I/61SPQ9SnfpL._AC_UF1000,1000_QL80_.jpg",
+      "color": "Silver",
+      "brand": "Sony",
+      "model": "Xperia 1 III",
+      "release_year": 2021,
+      "display": {
+        "type": "OLED",
+        "size": "6.5 inches",
+        "resolution": "1644 x 3840 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "12 GB",
+      "storage": "256/512 GB",
+      "battery": "Li-Po 4500 mAh",
+      "fast_charging": "30W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "12 MP (wide) + 12 MP (periscope telephoto) + 12 MP (ultrawide)",
+        "front": "8 MP",
+        "video_capabilities": "4K@24/25/30/60/120fps, 1080p@30/60/120/240fps"
+      },
+      "features": [
+        "5G support",
+        "IP65/IP68 dust/water resistant",
+        "Dual front stereo speakers"
+      ],
+      "price": 1299
+    },
+    {
+      "id": "7",
+      "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-57667/huaweimate40pro.jpg",
+      "color": "Light",
+      "brand": "Huawei",
+      "model": "Mate 40 Pro",
+      "release_year": 2020,
+      "display": {
+        "type": "OLED",
+        "size": "6.76 inches",
+        "resolution": "1344 x 2772 pixels",
+        "refresh_rate": "90 Hz",
+        "protection": "IP68 dust/water resistant"
+      },
+      "processor": "HiSilicon Kirin 9000",
+      "ram": "8/12 GB",
+      "storage": "256 GB",
+      "battery": "Li-Po 4400 mAh",
+      "fast_charging": "66W",
+      "wireless_charging": true,
+      "reverse_charging": true,
+      "camera": {
+        "main": "50 MP (wide) + 12 MP (periscope telephoto) + 20 MP (ultrawide)",
+        "front": "13 MP",
+        "video_capabilities": "4K@30/60fps, 1080p@240fps"
+      },
+      "features": [
+        "5G support",
+        "Infrared face recognition",
+        "Under-display fingerprint sensor"
+      ],
+      "price": 1199
+    },
+    {
+      "id": "8",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_sMsEucKuCODIm6rA4H1N7z8fZW1KqhQbxQ&s",
+      "color": "Dark Blue",
+      "brand": "Motorola",
+      "model": "Edge 20 Pro",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "144 Hz",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "processor": "Qualcomm Snapdragon 870",
+      "ram": "8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Po 4500 mAh",
+      "fast_charging": "30W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "108 MP (wide) + 16 MP (ultrawide) + 8 MP (telephoto)",
+        "front": "32 MP",
+        "video_capabilities": "4K@30/60fps, 1080p@30/60/120/240fps"
+      },
+      "features": [
+        "5G support",
+        "Under-display fingerprint sensor",
+        "Splash resistance"
+      ],
+      "price": 699
+    },
+    {
+      "id": "9",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MwZVDQn3_e8oaP7MQMJygOaodYvvX78q8A&s",
+      "color": "Black",
+      "brand": "LG",
+      "model": "Wing",
+      "release_year": 2020,
+      "display": {
+        "type": "G-OLED",
+        "size": "6.8 inches",
+        "resolution": "1080 x 2460 pixels (main), 1080 x 1920 pixels (secondary)",
+        "refresh_rate": "60 Hz",
+        "protection": "IP54 splash proof"
+      },
+      "processor": "Qualcomm Snapdragon 765G",
+      "ram": "8 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Po 4000 mAh",
+      "fast_charging": "25W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 13 MP (ultrawide)",
+        "front": "32 MP (pop-up)",
+        "video_capabilities": "4K@30fps, 1080p@30/60/240fps, gyro-EIS"
+      },
+      "features": [
+        "Swivel mode",
+        "5G support",
+        "LG 3D Sound Engine"
+      ],
+      "price": 999
+    },
+    {
+      "id": "10",
+      "img": "https://dlcdnwebimgs.asus.com/gain/D551F7D4-8AC9-4299-A93D-3860DFC9D573/w250",
+      "color": "Black",
+      "brand": "Asus",
+      "model": "ROG Phone 5",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.78 inches",
+        "resolution": "1080 x 2448 pixels",
+        "refresh_rate": "144 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8/12/16 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Po 6000 mAh",
+      "fast_charging": "65W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 13 MP (ultrawide) + 5 MP (macro)",
+        "front": "24 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "AirTrigger 5",
+        "RGB light panel (ROG logo)"
+      ],
+      "price": 999
+    },
+    {
+      "id": "11",
+      "img": "https://i.gadgets360cdn.com/products/large/oppo-find-x3-pro-db-749x800-1615527886.jpg",
+      "color": "Matt Black",
+      "brand": "Oppo",
+      "model": "Find X3 Pro",
+      "release_year": 2021,
+      "display": {
+        "type": "LTPO AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1440 x 3216 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8/12 GB",
+      "storage": "256 GB",
+      "battery": "Li-Po 4500 mAh",
+      "fast_charging": "65W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 50 MP (ultrawide) + 13 MP (telephoto) + 3 MP (macro)",
+        "front": "32 MP",
+        "video_capabilities": "4K@30/60fps, 1080p@30/60/240fps, gyro-EIS"
+      },
+      "features": [
+        "5G support",
+        "Under-display fingerprint sensor",
+        "IP68 dust/water resistant"
+      ],
+      "price": 1099
+    },
+    {
+      "id": "12",
+      "img": "https://images.jdmagicbox.com/quickquotes/images_main/realme-gt-neo-2-ram-8-gb-128-gb-neo-green-241073709-daf4z.png",
+      "color": "Green",
+      "brand": "Realme",
+      "model": "GT Neo 2",
+      "release_year": 2021,
+      "display": {
+        "type": "Super AMOLED",
+        "size": "6.62 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "processor": "Qualcomm Snapdragon 870",
+      "ram": "6/8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Po 5000 mAh",
+      "fast_charging": "65W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 8 MP (ultrawide) + 2 MP (macro)",
+        "front": "16 MP",
+        "video_capabilities": "4K@30fps, 1080p@30/60/120/480fps, gyro-EIS"
+      },
+      "features": [
+        "5G support",
+        "Vapor Cooling System",
+        "In-display fingerprint sensor"
+      ],
+      "price": 399
+    },
+    {
+      "id": "13",
+      "img": "https://m.media-amazon.com/images/I/818WAsUaJtS._AC_UF894,1000_QL80_.jpg",
+      "color": "Blue",
+      "brand": "Nokia",
+      "model": "X20",
+      "release_year": 2021,
+      "display": {
+        "type": "IPS LCD",
+        "size": "6.67 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "60 Hz",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "processor": "Qualcomm Snapdragon 480 5G",
+      "ram": "4/6 GB",
+      "storage": "64/128 GB",
+      "battery": "Li-Po 4470 mAh",
+      "fast_charging": "18W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 5 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)",
+        "front": "32 MP",
+        "video_capabilities": "4K@30fps, 1080p@30fps"
+      },
+      "features": [
+        "5G support",
+        "OZO Audio",
+        "Android One"
+      ],
+      "price": 349
+    },
+    {
+      "id": "14",
+      "img": "https://www.notebookcheck.net/uploads/tx_nbc2/VivoX60Pro_.jpg",
+      "color": "Orange",
+      "brand": "Vivo",
+      "model": "X60 Pro+",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.56 inches",
+        "resolution": "1080 x 2376 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass 6"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Po 4200 mAh",
+      "fast_charging": "55W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 48 MP (ultrawide) + 32 MP (telephoto) + 8 MP (periscope telephoto)",
+        "front": "32 MP",
+        "video_capabilities": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "features": [
+        "5G support",
+        "Gimbal stabilization",
+        "HDR10+"
+      ],
+      "price": 899
+    },
+    {
+      "id": "15",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-iCox2A9vIXPzSyslCt7XKOYdhy4ODOin7g&s",
+      "color": "Black",
+      "brand": "Lenovo",
+      "model": "Legion Phone Duel 2",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.92 inches",
+        "resolution": "1080 x 2460 pixels",
+        "refresh_rate": "144 Hz",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "12/16 GB",
+      "storage": "256/512 GB",
+      "battery": "Li-Po 5500 mAh",
+      "fast_charging": "90W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 16 MP (ultrawide)",
+        "front": "44 MP",
+        "video_capabilities": "4K@30/60fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "Dual cooling system",
+        "RGB lighting (back panel)"
+      ],
+      "price": 999
+    },
+    {
+      "id": "16",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpibHenA5sU9ypgSNjpoQV4JOY_0_YTOgmfg&s",
+      "color": "Blck",
+      "brand": "ZTE",
+      "model": "Axon 30 Ultra",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "144 Hz",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8/12 GB",
+      "storage": "128/256/1 TB",
+      "battery": "Li-Ion 4600 mAh",
+      "fast_charging": "66W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 64 MP (periscope telephoto) + 64 MP (ultrawide)",
+        "front": "16 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "Under-display fingerprint sensor",
+        "Dual speakers"
+      ],
+      "price": 749
+    },
+    {
+      "id": "17",
+      "img": "https://m.media-amazon.com/images/I/31n5dYJu0iL.jpg",
+      "color": "Silver",
+      "brand": "POCO",
+      "model": "F3 GT",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass 5"
+      },
+      "processor": "MediaTek Dimensity 1200 5G",
+      "ram": "6/8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Po 5065 mAh",
+      "fast_charging": "67W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 8 MP (ultrawide) + 2 MP (macro)",
+        "front": "16 MP",
+        "video_capabilities": "4K@30/60fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "Shoulder triggers",
+        "Dual speakers"
+      ],
+      "price": 499
+    },
+    {
+      "id": "18",
+      "img": "https://fdn2.gsmarena.com/vv/bigpic/meizu-18s-pro.jpg",
+      "color": "Silver",
+      "brand": "Meizu",
+      "model": "18s",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass 6"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Po 4000 mAh",
+      "fast_charging": "36W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 8 MP (ultrawide) + 2 MP (depth)",
+        "front": "44 MP",
+        "video_capabilities": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "features": [
+        "5G support",
+        "In-display fingerprint sensor",
+        "Dual stereo speakers"
+      ],
+      "price": 799
+    },
+    {
+      "id": "19",
+      "img": "https://cdn1.smartprix.com/rx-ipWQc2hVi-w1200-h1200/pWQc2hVi.jpg",
+      "color": "Matt Black",
+      "brand": "Honor",
+      "model": "Magic 4 Pro+",
+      "release_year": 2022,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.81 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 8 Gen 1",
+      "ram": "8/12 GB",
+      "storage": "256/512 GB",
+      "battery": "Li-Po 4800 mAh",
+      "fast_charging": "100W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 50 MP (ultrawide) + 64 MP (periscope telephoto) + 2 MP (depth)",
+        "front": "32 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "HarmonyOS 3.0",
+        "Infrared temperature sensor"
+      ],
+      "price": 1199
+    },
+    {
+      "id": "20",
+      "img": "https://m.media-amazon.com/images/I/61WuGAiVxOL._AC_UF1000,1000_QL80_.jpg",
+      "color": "Black",
+      "brand": "Nubia",
+      "model": "Red Magic 7",
+      "release_year": 2022,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.8 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "165 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 8 Gen 1 Plus",
+      "ram": "8/12/16 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Po 5000 mAh",
+      "fast_charging": "120W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "64 MP (wide) + 8 MP (ultrawide) + 2 MP (macro)",
+        "front": "16 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "Shoulder triggers",
+        "Game Turbo 6.0"
+      ],
+      "price": 699
+    },
+    {
+      "id": "21",
+      "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-96072/Black-Shark-4-Pro-Hero.png",
+      "color": "Black",
+      "brand": "Black Shark",
+      "model": "4 Pro",
+      "release_year": 2022,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "144 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 8 Gen 1",
+      "ram": "8/12/16 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Po 4500 mAh",
+      "fast_charging": "120W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "108 MP (wide) + 12 MP (ultrawide) + 5 MP (depth)",
+        "front": "20 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "Shoulder triggers",
+        "Liquid Cooling 4.0"
+      ],
+      "price": 899
+    },
+    {
+      "id": "22",
+      "img": "https://cdn1.smartprix.com/rx-iB0geyt2O-w420-h420/xiaomi-mix-fold-2-5g.jpg",
+      "color": "Golden",
+      "brand": "Xiaomi",
+      "model": "Mi MIX Fold",
+      "release_year": 2021,
+      "display": {
+        "type": "AMOLED",
+        "size": "8.01 inches (folded)",
+        "resolution": "1860 x 2480 pixels (main), 2520 x 840 pixels (cover)",
+        "refresh_rate": "60 Hz",
+        "protection": "Foldable glass (main display)"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "12/16 GB",
+      "storage": "256/512 GB",
+      "battery": "Li-Po 5020 mAh",
+      "fast_charging": "67W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "108 MP (wide) + 13 MP (ultrawide) + 8 MP (telephoto)",
+        "front": "20 MP (under display, unspecified type)",
+        "video_capabilities": "8K@30fps, 4K@30/60fps, 1080p@30/60/120fps"
+      },
+      "features": [
+        "5G support",
+        "LiquidCool Vapor Chamber",
+        "HDR10+"
+      ],
+      "price": 1499
+    },
+    {
+      "id": "23",
+      "img": "https://images.hindustantimes.com/tech/htmobile4/P35948/images/Design/143973-v1-sony-xperia-5-iii-mobile-phone-large-3.jpg",
+      "color": "Dark Green",
+      "brand": "Sony",
+      "model": "Xperia 5 III",
+      "release_year": 2021,
+      "display": {
+        "type": "OLED",
+        "size": "6.1 inches",
+        "resolution": "1080 x 2520 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass 6"
+      },
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Ion 4500 mAh",
+      "fast_charging": "30W",
+      "wireless_charging": false,
+      "reverse_charging": false,
+      "camera": {
+        "main": "12 MP (wide) + 12 MP (ultrawide) + 12 MP (telephoto)",
+        "front": "8 MP",
+        "video_capabilities": "4K@24/30/60/120fps HDR, 1080p@30/60/120/240fps"
+      },
+      "features": [
+        "IP65/68 dust/water resistant",
+        "HDR OLED display",
+        "Dual front stereo speakers"
+      ],
+      "price": 1099
+    },
+    {
+      "id": "24",
+      "img": "https://m.media-amazon.com/images/I/71J8tz0UeJL.jpg",
+      "color": "Dark Pink",
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "release_year": 2022,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.8 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 8 Gen 1",
+      "ram": "8/12/16 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Ion 5000 mAh",
+      "fast_charging": "45W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "108 MP (wide) + 10 MP (periscope telephoto) + 10 MP (telephoto) + 12 MP (ultrawide)",
+        "front": "40 MP",
+        "video_capabilities": "8K@24fps, 4K@30/60/120fps, 1080p@30/60/240fps, gyro-EIS"
+      },
+      "features": [
+        "S Pen support",
+        "IP68 dust/water resistant",
+        "Stereo speakers"
+      ],
+      "price": 1399
+    },
+    {
+      "id": "25",
+      "img": "https://m.media-amazon.com/images/I/618hqM-yxtL._AC_UF1000,1000_QL80_.jpg",
+      "color": "Light Green",
+      "brand": "OnePlus",
+      "model": "10 Pro",
+      "release_year": 2022,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1440 x 3216 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 8 Gen 1",
+      "ram": "8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "Li-Ion 5000 mAh",
+      "fast_charging": "65W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "48 MP (wide) + 50 MP (ultrawide) + 8 MP (telephoto) + 2 MP (depth)",
+        "front": "32 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, Auto HDR"
+      },
+      "features": [
+        "5G support",
+        "In-display fingerprint sensor",
+        "HDR10+"
+      ],
+      "price": 899
+    },
+    {
+      "id": "26",
+      "img": "https://m.media-amazon.com/images/I/71FpXTBHDnL._AC_UF1000,1000_QL80_.jpg",
+      "color": "Black",
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "release_year": 2021,
+      "display": {
+        "type": "POLED",
+        "size": "6.71 inches",
+        "resolution": "1440 x 3120 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Google Tensor",
+      "ram": "12 GB",
+      "storage": "128/256/512 GB",
+      "battery": "Li-Ion 5003 mAh",
+      "fast_charging": "30W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 12 MP (ultrawide) + 48 MP (telephoto)",
+        "front": "11 MP",
+        "video_capabilities": "4K@30/60/120/240fps, 1080p@30/60/120/240/480fps, gyro-EIS"
+      },
+      "features": [
+        "IP68 dust/water resistant",
+        "Google Titan M2 security module",
+        "HDR10+"
+      ],
+      "price": 1099
+    },
+    {
+      "id": "27",
+      "img": "https://5.imimg.com/data5/ECOM/Default/2024/1/377238708/FO/RU/PS/47699750/s-l1600-ffaf4edc-d747-41bf-a463-4c897edcb681-500x500.jpg",
+      "color": "Light Green",
+      "brand": "Honor",
+      "model": "Magic 4",
+      "release_year": 2022,
+      "display": {
+        "type": "OLED",
+        "size": "6.81 inches",
+        "resolution": "1440 x 3200 pixels",
+        "refresh_rate": "120 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 8 Gen 1",
+      "ram": "8/12 GB",
+      "storage": "256/512 GB",
+      "battery": "Li-Ion 4600 mAh",
+      "fast_charging": "100W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "50 MP (wide) + 64 MP (ultrawide) + 64 MP (periscope telephoto)",
+        "front": "32 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "HarmonyOS 3.0",
+        "Infrared temperature sensor"
+      ],
+      "price": 1199
+    },
+    {
+      "id": "28",
+      "img": "https://cdn1.smartprix.com/rx-iBwydt4S1-w420-h420/nubia-z40-pro-5g.jpg",
+      "color": "Silver",
+      "brand": "ZTE",
+      "model": "Nubia Z40 Pro",
+      "release_year": 2023,
+      "display": {
+        "type": "AMOLED",
+        "size": "6.76 inches",
+        "resolution": "1080 x 2400 pixels",
+        "refresh_rate": "144 Hz",
+        "protection": "Corning Gorilla Glass Victus"
+      },
+      "processor": "Qualcomm Snapdragon 8 Gen 1",
+      "ram": "8/12/16 GB",
+      "storage": "256/512 GB",
+      "battery": "Li-Ion 5000 mAh",
+      "fast_charging": "120W",
+      "wireless_charging": true,
+      "reverse_charging": false,
+      "camera": {
+        "main": "200 MP (wide) + 13 MP (ultrawide) + 8 MP (telephoto)",
+        "front": "64 MP",
+        "video_capabilities": "8K@30fps, 4K@30/60fps, 1080p@30/60/240fps"
+      },
+      "features": [
+        "5G support",
+        "In-display fingerprint sensor",
+        "Liquid cooling"
+      ],
+      "price": 999
+    }
+  ],
+  "cartItems": [],
+  "Current_User": [
+    {
+      "id": "f4ac",
+      "Username": "mrizzz"
+    }
+  ],
+  "total_amount": [
+    {
+      "id": "1",
+      "total_amount": 0
+    }
+  ],
+  "total_quantities": [
+    {
+      "id": "1",
+      "totalQuantities": 0
+    }
+  ]
+}

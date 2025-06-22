@@ -1,0 +1,41 @@
+form
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+input
+{
+    width: 250px;
+    border-radius: 5%;
+}
+
+h1{
+    margin-bottom: 28px;
+}
+
+.para
+{
+    color: red;
+}
+
+button{
+    width: 250px;
+}
+
+#header
+{
+    height : 5px;
+    width: 23vw;
+    background-color: black;
+}
+
+.btn , .btn-success
+  {
+    background-color: #30638e;
+    border: none;
+  }
+
